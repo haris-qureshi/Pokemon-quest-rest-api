@@ -1,0 +1,152 @@
+﻿#,Pokémon,Move 1,Move 2,Move 3,Move 4,Move 5,Move 6,Move 7,Move 8,Move 9,Move 10,Auto,Type1,Type2,HP,Att,Total
+1,Bulbasaur,Vine Whip,Synthesis,Tackle,Petal Dance,,,,,,,Melee,Grass,Poison,125,75,200
+2,Ivysaur,Vine Whip,Synthesis,Tackle,Petal Dance,Leech Seed,Take Down,Poison Powder,,,,Melee,Grass,Poison,400,100,500
+3,Venusaur,Vine Whip,Synthesis,Tackle,Petal Dance,Leech Seed,Take Down,Poison Powder,Toxic,Mega Drain,Solar Beam,Melee,Grass,Poison,550,150,700
+4,Charmander,Fire Punch,Ember,Fire Spin,Scratch,,,,,,,Melee,Fire,-,75,125,200
+5,Charmeleon,Fire Punch,Ember,Fire Spin,Scratch,Dragon Claw,Metal Claw,Flamethrower,,,,Melee,Fire,-,100,400,500
+6,Charizard,Fire Punch,Ember,Fire Spin,Scratch,Dragon Claw,Metal Claw,Flamethrower,Flare Blitz,Flame Charge,Fire Blast,Melee,Fire,Flying,200,600,800
+7,Squirtle,Bubble,Whirlpool,Withdraw,Tackle,,,,,,,Melee,Water,-,100,100,200
+8,Wartortle,Bubble,Whirlpool,Withdraw,Tackle,Waterfall,Aqua Jet,Surf,,,,Melee,Water,-,250,250,500
+9,Blastoise,Bubble,Whirlpool,Withdraw,Tackle,Waterfall,Aqua Jet,Surf,Blizzard,Aqua Ring,Hydro Pump,Melee,Water,-,400,400,800
+10,Caterpie,String Shot,Take Down,Lunge,Tackle,,,,,,,Melee,Bug,-,110,90,200
+11,Metapod,String Shot,Take Down,Lunge,Tackle,Electroweb,Harden,Iron Defense,,,,Melee,Bug,-,275,25,300
+12,Butterfree,String Shot,Take Down,Lunge,Tackle,Electroweb,Harden,Iron Defense,Rage Powder,Silver Wind,U-Turn,Melee,Bug,Flying,150,250,400
+13,Weedle,String Shot,Tackle,Lunge,Poison Sting,,,,,,,Melee,Bug,Poison,100,100,200
+14,Kakuna,String Shot,Tackle,Lunge,Poison Sting,Electroweb,Harden,Iron Defense,,,,Melee,Bug,Poison,250,50,300
+15,Beedrill,String Shot,Tackle,Lunge,Poison Sting,Electroweb,Harden,Iron Defense,Agility,Aerial Ace,Pin Missile,Melee,Bug,Poison,150,250,400
+16,Pidgey,Gust,Whirlwind,Tailwind,Twister,,,,,,,Range,Normal,Flying,100,100,200
+17,Pidgeotto,Gust,Whirlwind,Tailwind,Twister,Agility,Hurricane,Mud-Slap,,,,Range,Normal,Flying,250,250,500
+18,Pidgeot,Gust,Whirlwind,Tailwind,Twister,Agility,Hurricane,Mud-Slap,Sky Attack,Heat Wave,Roost,Range,Normal,Flying,400,400,800
+19,Rattata,Tackle,Take Down,Crunch,Scratch,Focus Energy,,,,,,Melee,Normal,-,75,125,200
+20,Raticate,Tackle,Take Down,Crunch,Scratch,Focus Energy,Flame Wheel,Zen Headbutt,Taunt,Iron Tail,Fury Swipes,Melee,Normal,-,150,450,600
+21,Spearow,Take Down,Aerial Ace,Growl,Fly,Leer,,,,,,Melee,Normal,Flying,75,125,200
+22,Fearow,Take Down,Aerial Ace,Growl,Fly,Leer,Steel Wing,U-Turn,Whirlwind,Drill Peck,Tri Attack,Melee,Normal,Flying,100,500,600
+23,Ekans,Poison Sting,Mud Bomb,Rock Tomb,Mud-Slap,Leer,,,,,,Range,Poison,-,80,120,200
+24,Arbok,Poison Sting,Mud Bomb,Rock Tomb,Mud-Slap,Leer,Sludge Bomb,Sucker Punch,Earthquake,Crunch,Iron Tail,Range,Poison,-,150,450,600
+25,Pikachu,Iron Tail,Thunder Shock,Thunderbolt,Spark,Volt Tackle,,,,,,Melee,Electric,-,70,130,200
+26,Raichu,Iron Tail,Thunder Shock,Thunderbolt,Spark,Volt Tackle,Agility,Thunder,Electric Terrain,Charge,Giga Impact,Melee,Electric,-,150,450,600
+27,Sandshrew,Scratch,Metal Claw,Dig,Sandstorm,Rollout,,,,,,Melee,Ground,-,80,120,200
+28,Sandslash,Scratch,Metal Claw,Dig,Sandstorm,Rollout,Fury Swipes,Earthquake,Swords Dance,Aerial Ace,Night Slash,Melee,Ground,-,150,350,500
+29,Nidoran♀,Mud-Slap,Growl,Flatter,Focus Energy,,,,,,,Range,Poison,-,140,60,200
+30,Nidorina,Mud-Slap,Growl,Flatter,Focus Energy,Supersonic,Poison Sting,Venom Drench,,,,Range,Poison,-,325,175,500
+31,Nidoqueen,Mud-Slap,Growl,Flatter,Focus Energy,Supersonic,Poison Sting,Venom Drench,Swords Dance,Stealth Rock,Sludge Bomb,Range,Poison,Ground,600,200,800
+32,Nidoran♂,Take Down,Toxic,Rock Smash,Iron Tail,,,,,,,Melee,Poison,-,60,140,200
+33,Nidorino,Take Down,Toxic,Rock Smash,Iron Tail,Growl,Amnesia,Rock Tomb,,,,Melee,Poison,-,175,325,500
+34,Nidoking,Take Down,Toxic,Rock Smash,Iron Tail,Growl,Amnesia,Rock Tomb,Earthquake,Megahorn,Taunt,Melee,Poison,Ground,200,600,800
+35,Clefairy,Follow Me,Flash,Rollout,Take Down,Light Screen,,,,,,Melee,Fairy,-,120,80,200
+36,Clefable,Follow Me,Flash,Rollout,Take Down,Light Screen,Amnesia,Soft Boiled,Psychic,Belly Drum,Dazzling Gleam,Melee,Fairy,-,450,250,700
+37,Vulpix,Flamethrower,Ember,Charm,Roar,Flame Charge,,,,,,Range,Fire,-,110,90,200
+38,Ninetales,Flamethrower,Ember,Charm,Roar,Flame Charge,Solar Beam,Confuse Ray,Heat Wave,Will-O-Wisp,Fire Blast,Range,Fire,-,550,250,800
+39,Jigglypuff,Take Down,Sing,Mega Punch,Flash,Rollout,,,,,,Melee,Normal,Fairy,140,60,200
+40,Wigglytuff,Take Down,Sing,Mega Punch,Flash,Rollout,Rest,Sweet Kiss,Dynamic Punch,Bounce,Play Rough,Melee,Normal,Fairy,450,150,600
+41,Zubat,Taunt,Whirlwind,Gust,Supersonic,Leech Life,,,,,,Range,Poison,Flying,80,120,200
+42,Golbat,Taunt,Whirlwind,Gust,Supersonic,Leech Life,Sludge Bomb,Venom Drench,Tailwind,Roost,Nasty Plot,Range,Poison,Flying,200,400,600
+43,Oddish,Poison Powder,Stun Spore,Flash,Petal Dance,,,,,,,Range,Grass,Poison,75,125,200
+44,Gloom,Poison Powder,Stun Spore,Flash,Petal Dance,Synthesis,Bullet Seed,Charm,,,,Range,Grass,Poison,250,350,600
+45,Vileplume,Poison Powder,Stun Spore,Flash,Petal Dance,Synthesis,Bullet Seed,Charm,Mega Drain,Solar Beam,Swords Dance,Range,Grass,Poison,300,500,800
+46,Paras,Leech Seed,Poison Powder,Light Screen,Stun Spore,Rage Powder,,,,,,Range,Bug,Grass,80,120,200
+47,Parasect,Leech Seed,Poison Powder,Light Screen,Stun Spore,Rage Powder,Spore,Metal Claw,Psybeam,Agility,Bullet Seed,Range,Bug,Grass,200,500,700
+48,Venonat,String Shot,Poison Powder,Flash,Stun Spore,Psybeam,,,,,,Range,Bug,Poison,120,80,200
+49,Venomoth,String Shot,Poison Powder,Flash,Stun Spore,Psybeam,Agility,Silver Wind,Supersonic,Psychic,Gust,Range,Bug,Poison,350,350,700
+50,Diglett,Dig,Mud Bomb,Stealth Rock,Growl,Mud-Slap,,,,,,Range,Ground,-,60,140,200
+51,Dugtrio,Dig,Mud Bomb,Stealth Rock,Growl,Mud-Slap,Sucker Punch,Earthquake,Shore Up,Rock Tomb,Rock Throw,Range,Ground,-,100,600,700
+52,Meowth,Scratch,Taunt,Fury Swipes,U-Turn,Growl,,,,,,Melee,Normal,-,85,115,200
+53,Persian,Scratch,Taunt,Fury Swipes,U-Turn,Growl,Flail,Play Rough,Nasty Plot,Roar,Night Slash,Melee,Normal,-,300,400,700
+54,Psyduck,Confuse Ray,Light Screen,Icy Wind,Whirlpool,Amnesia,,,,,,Range,Water,-,80,120,200
+55,Golduck,Confuse Ray,Light Screen,Icy Wind,Whirlpool,Amnesia,Mud Bomb,Hydro Pump,Psychic,Psybeam,Ice Beam,Range,Water,-,200,500,700
+56,Mankey,Taunt,Submission,Scratch,Leer,Fury Swipes,,,,,,Melee,Fighting,-,60,140,200
+57,Primeape,Taunt,Submission,Scratch,Leer,Fury Swipes,Mega Punch,Meditate,Cross Chop,Close Combat,Night Slash,Melee,Fighting,-,150,550,700
+58,Growlithe,Flamethrower,Ember,Flame Charge,Roar,Flame Wheel,,,,,,Melee,Fire,-,80,120,200
+59,Arcanine,Flamethrower,Ember,Flame Charge,Roar,Flame Wheel,Crunch,Agility,Fire Blast,Flare Blitz,Extreme Speed,Melee,Fire,-,350,450,800
+60,Poliwag,Bubble,Waterfall,Flail,Surf,,,,,,,Melee,Water,-,90,110,200
+61,Poliwhirl,Bubble,Waterfall,Flail,Surf,Amnesia,Mega Punch,Bulk Up,,,,Melee,Water,-,350,350,700
+62,Poliwrath,Bubble,Waterfall,Flail,Surf,Amnesia,Mega Punch,Bulk Up,Dynamic Punch,Power-Up Punch,Ice Punch,Melee,Water,Fighting,350,450,800
+63,Abra,Teleport,Psybeam,Flash,Light Screen,,,,,,,Range,Psychic,-,45,155,200
+64,Kadabra,Teleport,Psybeam,Flash,Light Screen,Psychic,Barrier,Dazzling Gleam,,,,Range,Psychic,-,90,410,500
+65,Alakazam,Teleport,Psybeam,Flash,Light Screen,Psychic,Barrier,Dazzling Gleam,Recover,Shadow Ball,Psycho Cut,Range,Psychic,-,100,700,800
+66,Machop,Rolling Kick,Submission,Bulk Up,Rock Smash,,,,,,,Melee,Fighting,-,80,120,200
+67,Machoke,Rolling Kick,Submission,Bulk Up,Rock Smash,Mega Punch,Work Up,Cross Chop,,,,Melee,Fighting,-,200,500,700
+68,Machamp,Rolling Kick,Submission,Bulk Up,Rock Smash,Mega Punch,Work Up,Cross Chop,Close Combat,Power-Up Punch,Dynamic Punch,Melee,Fighting,-,250,550,800
+69,Bellsprout,Razor Leaf,Synthesis,Sludge Bomb,Bullet Seed,,,,,,,Range,Grass,Poison,80,120,200
+70,Weepinbell,Razor Leaf,Synthesis,Sludge Bomb,Bullet Seed,Vine Whip,Stun Spore,Slam,,,,Range,Grass,Poison,250,350,600
+71,Victreebel,Razor Leaf,Synthesis,Sludge Bomb,Bullet Seed,Vine Whip,Stun Spore,Slam,Swords Dance,Solar Beam,Hyper Beam,Range,Grass,Poison,300,500,800
+72,Tentacool,Bubble,Barrier,Sludge Bomb,Whirlpool,Poison Sting,,,,,,Range,Water,Poison,90,110,200
+73,Tentacruel,Bubble,Barrier,Sludge Bomb,Whirlpool,Poison Sting,Hydro Pump,Ice Beam,Supersonic,Icy Wind,Confuse Ray,Range,Water,Poison,550,150,700
+74,Geodude,Flail,Dig,Tackle,Harden,,,,,,,Melee,Rock,Ground,140,60,200
+75,Graveler,Flail,Dig,Tackle,Harden,Stealth Rock,Rollout,Self Destruct,,,,Melee,Rock,Ground,610,90,700
+76,Golem,Flail,Dig,Tackle,Harden,Stealth Rock,Rollout,Self Destruct,Earthquake,Explosion,Rock Polish,Melee,Rock,Ground,700,100,800
+77,Ponyta,Flame Charge,Bounce,Fire Spin,Stomp,Agility,,,,,,Melee,Fire,-,100,100,200
+78,Rapidash,Flame Charge,Bounce,Fire Spin,Stomp,Agility,Flame Wheel,Flare Blitz,Fire Blast,Megahorn,Will-O-Wisp,Melee,Fire,-,400,400,800
+79,Slowpoke,Tackle,Zen Headbutt,Light Screen,Ice Punch,Growl,,,,,,Melee,Water,Psychic,130,70,200
+80,Slowbro,Tackle,Zen Headbutt,Light Screen,Ice Punch,Growl,Belly Drum,Surf,Withdraw,Rest,Amnesia,Melee,Water,Psychic,650,150,800
+81,Magnemite,Flash Cannon,Metal Sound,Supersonic,Electroweb,Charge,,,,,,Range,Electric,Steel,80,120,200
+82,Magneton,Flash Cannon,Metal Sound,Supersonic,Electroweb,Charge,Light Screen,Electric Terrain,Thunder,Thunderbolt,Explosion,Range,Electric,Steel,300,400,700
+83,Farfetch'd,Sky Attack,Sucker Punch,U-Turn,Gust,Swords Dance,Tailwind,Steel Wing,Heat Wave,Roost,Night Slash,Melee,Normal,Flying,350,350,700
+84,Doduo,Take Down,Agility,Drill Peck,Growl,Flail,,,,,,Melee,Normal,Flying,80,120,200
+85,Dodrio,Take Down,Agility,Drill Peck,Growl,Flail,Aerial Ace,Swords Dance,Work Up,Tri Attack,Tailwind,Melee,Normal,Flying,200,500,700
+86,Seel,Take Down,Blizzard,Surf,Lick,Growl,,,,,,Melee,Water,-,110,90,200
+87,Dewgong,Take Down,Blizzard,Surf,Lick,Growl,Slam,Aurora Veil,Aqua Jet,Aqua Ring,Rest,Melee,Water,Ice,500,200,700
+88,Grimer,Tackle,Toxic,Slam,Acid Armor,Venom Drench,,,,,,Melee,Poison,-,110,90,200
+89,Muk,Tackle,Toxic,Slam,Acid Armor,Venom Drench,Power-Up Punch,Fire Punch,Taunt,Rock Tomb,Lick,Melee,Poison,-,650,150,800
+90,Shellder,Withdraw,Bubble,Ice Beam,Barrier,Iron Defense,,,,,,Range,Water,-,120,80,200
+91,Cloyster,Withdraw,Bubble,Ice Beam,Barrier,Iron Defense,Spikes,Rock Blast,Supersonic,Icy Wind,Icicle Crash,Range,Water,Ice,575,225,800
+92,Gastly,Lick,Astonish,Smog,Sucker Punch,,,,,,,Melee,Ghost,Poison,50,150,200
+93,Haunter,Lick,Astonish,Smog,Sucker Punch,Toxic,Confuse Ray,Hypnosis,,,,Melee,Ghost,Poison,125,575,700
+94,Gengar,Lick,Astonish,Smog,Sucker Punch,Toxic,Confuse Ray,Hypnosis,Mega Drain,Shadow Ball,Will-O-Wisp,Melee,Ghost,Poison,150,650,800
+95,Onix,Flash Cannon,Stealth Rock,Sandstorm,Harden,Iron Tail,Rock Smash,Rock Throw,Rock Polish,Roar,Rock Tomb,Range,Rock,Ground,600,100,700
+96,Drowzee,Psybeam,Taunt,Light Screen,Barrier,Flash,,,,,,Range,Psychic,-,120,80,200
+97,Hypno,Psybeam,Taunt,Light Screen,Barrier,Flash,Flatter,Psychic,Shadow Ball,Meditate,Hypnosis,Range,Psychic,-,500,200,700
+98,Krabby,Surf,Flail,Stomp,Harden,Leer,,,,,,Melee,Water,-,70,130,200
+99,Kingler,Surf,Flail,Stomp,Harden,Leer,Slam,Metal Claw,Swords Dance,Take Down,Giga Impact,Melee,Water,-,100,600,700
+100,Voltorb,Self Destruct,Taunt,Thunder Shock,Rollout,Tackle,,,,,,Melee,Electric,-,110,90,200
+101,Electrode,Self Destruct,Taunt,Thunder Shock,Rollout,Tackle,Charge,Sucker Punch,Light Screen,Explosion,Spark,Melee,Electric,-,400,300,700
+102,Exeggcute,Psychic,Sludge Bomb,Leech Seed,Flash,Synthesis,,,,,,Range,Grass,Psychic,130,70,200
+103,Exeggutor,Psychic,Sludge Bomb,Leech Seed,Flash,Synthesis,Bullet Seed,Egg Bomb,Stomp,Solar Beam,Stun Spore,Range,Grass,Psychic,250,550,800
+104,Cubone,Bonemerang,Growl,Sandstorm,Focus Energy,Leer,,,,,,Melee,Ground,-,130,70,200
+105,Marowak,Bonemerang,Growl,Sandstorm,Focus Energy,Leer,Outrage,Rock Tomb,Belly Drum,Earthquake,Aerial Ace,Melee,Ground,-,525,175,700
+106,Hitmonlee,Rolling Kick,Submission,Close Combat,Focus Energy,Bulk Up,Meditate,Rock Smash,Bounce,High Jump Kick,Sucker Punch,Melee,Fighting,-,50,650,700
+107,Hitmonchan,Dynamic Punch,Comet Punch,Mega Punch,Fire Punch,Close Combat,Thunder Punch,Ice Punch,Power-Up Punch,Rock Smash,Drain Punch,Melee,Fighting,-,75,625,700
+108,Lickitung,Lick,Slam,Stomp,Mega Punch,Iron Tail,Amnesia,Rock Smash,Rollout,Belly Drum,Power-Up Punch,Melee,Normal,-,600,100,700
+109,Koffing,Flamethrower,Smog,Sludge Bomb,Self Destruct,Lava Plume,,,,,,Range,Poison,-,140,60,200
+110,Weezing,Flamethrower,Smog,Sludge Bomb,Self Destruct,Lava Plume,Venom Drench,Explosion,Shadow Ball,Toxic,Will-O-Wisp,Range,Poison,-,450,350,800
+111,Rhyhorn,Roar,Take Down,Stomp,Crunch,Iron Tail,,,,,,Melee,Ground,Rock,120,80,200
+112,Rhydon,Roar,Take Down,Stomp,Crunch,Iron Tail,Megahorn,Earthquake,Rock Smash,Dragon Rush,Rock Polish,Melee,Ground,Rock,300,500,800
+113,Chansey,Take Down,Mega Punch,Light Screen,Egg Bomb,Sing,Rock Smash,Flail,Soft Boiled,Charm,Sweet Kiss,Melee,Normal,-,675,25,700
+114,Tangela,Vine Whip,Slam,Leech Seed,Synthesis,Stun Spore,Amnesia,Rage Powder,Substitute,Mega Drain,Rest,Melee,Grass,-,400,300,700
+115,Kangaskhan,Take Down,Outrage,Stomp,Mega Punch,Focus Energy,Leer,Rock Tomb,Rest,Power-Up Punch,Crunch,Melee,Normal,-,350,350,700
+116,Horsea,Bubble,Icy Wind,Agility,Whirlpool,Twister,,,,,,Range,Water,-,90,110,200
+117,Seadra,Bubble,Icy Wind,Agility,Whirlpool,Twister,Flash Cannon,Dragon Pulse,Ice Beam,Dragon Dance,Hydro Pump,Range,Water,-,250,450,700
+118,Goldeen,Splash,Aqua Jet,Surf,Take Down,Flail,,,,,,Melee,Water,-,70,130,200
+119,Seaking,Splash,Aqua Jet,Surf,Take Down,Flail,Bounce,Waterfall,Supersonic,Megahorn,Agility,Melee,Water,-,350,450,800
+120,Staryu,Icy Wind,Flash Cannon,Ice Beam,Twister,Flash,,,,,,Range,Water,-,60,140,200
+121,Starmie,Icy Wind,Flash Cannon,Ice Beam,Twister,Flash,Confuse Ray,Psychic,Blizzard,Hyper Beam,Hydro Pump,Range,Water,Psychic,150,650,800
+122,Mr. Mime,Substitute,Taunt,Psychic,Barrier,Hypnosis,Follow Me,Meditate,Light Screen,Charm,Nasty Plot,Range,Psychic,Fairy,575,125,700
+123,Scyther,Lunge,Swords Dance,Steel Wing,Tailwind,Agility,U-Turn,Aerial Ace,Night Slash,Rock Smash,Silver Wind,Melee,Bug,Flying,100,700,800
+124,Jynx,Psychic,Blizzard,Ice Beam,Flash,Sing,Meditate,Psybeam,Aurora Veil,Draining Kiss,Sweet Kiss,Range,Ice,Psychic,150,550,700
+125,Electabuzz,Thunder,Thunder Shock,Thunderbolt,Charge,Thunder Punch,Meditate,Cross Chop,Dynamic Punch,Electroweb,Power-Up Punch,Melee,Electric,-,300,400,700
+126,Magmar,Flamethrower,Ember,Follow Me,Flare Blitz,Lava Plume,Fire Blast,Smog,Cross Chop,Belly Drum,Will-O-Wisp,Melee,Fire,-,175,525,700
+127,Pinsir,Take Down,Submission,Dig,Focus Energy,Bulk Up,Harden,Rock Tomb,Rock Smash,Close Combat,Earthquake,Melee,Bug,-,75,725,800
+128,Tauros,Hyper Beam,Outrage,Blizzard,Earthquake,Thunderbolt,Flamethrower,Zen Headbutt,Giga Impact,Take Down,Iron Tail,Melee,Normal,-,100,600,700
+129,Magikarp,Splash,Bounce,Tackle,Flail,,,,,,,Melee,Water,-,25,25,50
+130,Gyarados,Splash,Bounce,Tackle,Flail,Dragon Dance,Outrage,Waterfall,Crunch,Hyper Beam,Taunt,Melee,Water,Flying,200,400,600
+131,Lapras,Hydro Pump,Whirlpool,Blizzard,Ice Beam,Sing,Growl,Aurora Veil,Icicle Crash,Rest,Icy Wind,Range,Water,Ice,650,150,800
+132,Ditto,Transform,,,,,,,,,,Range,Normal,-,350,350,700
+133,Eevee,Flail,Take Down,Charm,Dig,Growl,,,,,,Melee,Normal,-,100,100,200
+134,Vaporeon,Flail,Take Down,Charm,Dig,Growl,Acid Armor,Hydro Pump,Aqua Ring,Waterfall,Whirlpool,Melee,Water,-,600,200,800
+135,Jolteon,Flail,Take Down,Charm,Dig,Growl,Pin Missile,Agility,Spark,Thunder,Thunderbolt,Melee,Electric,-,250,550,800
+136,Flareon,Flail,Take Down,Charm,Dig,Growl,Flamethrower,Lava Plume,Ember,Fire Blast,Flare Blitz,Melee,Fire,-,200,600,800
+137,Porygon,Thunderbolt,Flamethrower,Ice Beam,Hyper Beam,Agility,Recover,Tri Attack,Iron Tail,Psybeam,Shadow Ball,Range,Normal,-,350,350,700
+138,Omanyte,Bubble,Icy Wind,Whirlpool,Spikes,Withdraw,,,,,,Range,Water,Rock,140,60,200
+139,Omastar,Bubble,Icy Wind,Whirlpool,Spikes,Withdraw,Rock Blast,Hydro Pump,Ice Beam,Rock Polish,Supersonic,Range,Water,Rock,575,225,800
+140,Kabuto,Aqua Jet,Withdraw,Waterfall,Metal Sound,Surf,,,,,,Melee,Rock,Water,70,130,200
+141,Kabutops,Aqua Jet,Withdraw,Waterfall,Metal Sound,Surf,Sandstorm,Rock Tomb,Swords Dance,Night Slash,Aerial Ace,Melee,Rock,Water,150,650,800
+142,Aerodactyl,Crunch,Take Down,Fly,Earthquake,Sky Attack,Dragon Claw,Rock Tomb,Agility,Roost,Sandstorm,Melee,Rock,Flying,125,675,800
+143,Snorlax,Take Down,Mega Punch,Outrage,Earthquake,Harden,Rest,Amnesia,Rollout,Belly Drum,Giga Impact,Melee,Normal,-,650,150,800
+144,Articuno,Sky Attack,Ice Beam,Blizzard,Agility,Aurora Veil,U-Turn,Roost,Steel Wing,Hurricane,Icy Wind,Range,Ice,Flying,600,400,1000
+145,Zapdos,Sky Attack,Thunder,Charge,Thunderbolt,Metal Sound,Agility,Roost,Thunder Shock,Drill Peck,Light Screen,Range,Electric,Flying,350,650,1000
+146,Moltres,Sky Attack,Flamethrower,Heat Wave,Leer,Fire Spin,Will-O-Wisp,Roost,Ember,Lava Plume,Fire Blast,Range,Fire,Flying,500,500,1000
+147,Dratini,Agility,Extreme Speed,Dragon Rush,Dragon Dance,,,,,,,Melee,Dragon,-,80,120,200
+148,Dragonair,Agility,Extreme Speed,Dragon Rush,Dragon Dance,Dragon Pulse,Earthquake,Twister,,,,Melee,Dragon,-,300,400,700
+149,Dragonite,Agility,Extreme Speed,Dragon Rush,Dragon Dance,Dragon Pulse,Earthquake,Twister,Outrage,Hyper Beam,Draco Meteor,Melee,Dragon,Flying,400,500,900
+150,Mewtwo,Psychic,Shadow Ball,Thunderbolt,Bulk Up,Psystrike,Blizzard,Recover,Psycho Cut,Hyper Beam,Giga Impact,Range,Psychic,-,550,750,1300
+151,Mew,Psychic,Flash Cannon,Amnesia,Heat Wave,Thunder,Teleport,Recover,Tri Attack,Hyper Beam,Giga Impact,Range,Psychic,-,650,650,1300
